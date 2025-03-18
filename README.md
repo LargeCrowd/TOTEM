@@ -52,6 +52,10 @@ This is the TOTEM in a black resin case
 ![TOTEM black resin](/docs/images/TOTEM_black_top.jpg)\
 ![TOTEM black resin](/docs/images/TOTEM_black_bottom.jpg)
 
+These are the TOTEMs that I (LargeCrowd) made
+
+![TOTEM gif](/docs/images/totem.gif)
+
 ***
 
 ## BUY 
